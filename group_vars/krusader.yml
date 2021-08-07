@@ -2,7 +2,6 @@
 ###
 ### Krusader
 ###
-krusader_enabled: false
 krusader_available_externally: "false"
 krusader_browse_directory: "/"
 krusader_config_directory: "{{ docker_home }}/krusader/config"

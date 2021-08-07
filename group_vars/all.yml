@@ -22,7 +22,9 @@ youtubedlmaterial_enabled: false
 
 # System Management
 stats_enabled: false
+guacamole_enabled: false
 virtual_desktop_enabled: false
+krusader_enabled: false
 
 # Backup & Restore
 timemachine_enabled: false
@@ -48,7 +50,6 @@ joomla_enabled: false
 
 # PyTivo
 pytivo_enabled: false
-
 
 
 
